@@ -18,7 +18,7 @@
       display: block;
     }
     .blurb {
-      color: var(--secondary-high);
+      color: var(--header_primary);
     }
   }
   .second-box {
@@ -54,7 +54,7 @@
         justify-content: center;
 
         .d-icon {
-          color: var(--secondary);
+          color: var(--header_primary);
           min-width: unset;
           margin: 0;
           font-size: $font-up-2;
@@ -63,7 +63,7 @@
       }
     }
     .small-link {
-      color: var(--secondary-high);
+      color: var(--header_primary);
       margin: 0 0.25em;
       font-size: $font-down-2;
     }
@@ -75,7 +75,7 @@
     font-weight: bold;
   }
   .footer-section-link-wrapper a {
-    color: var(--secondary-high);
+    color: var(--header_primary);
   }
   .list {
     margin: 1em;
